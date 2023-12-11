@@ -25,10 +25,11 @@ public class Punto4 {
         int aux = b;
 
         for(int i = 0; i<10;i++){
-            System.out.println(a);
+            System.out.print(a+" ");
             aux = a+b;
             a = b;
             b = aux;
         }
+        System.out.println();
     }
 }
