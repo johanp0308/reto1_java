@@ -1,7 +1,8 @@
 # Reto Java 1
 
-En este ejercicio tipo reto, aplica varias tecnicas en el manejo de cadenas.
-Tambien use la clase Random para el generador de contraseñas.
+El primer ejercicio consistia en sumar los multiplos de 3 y 5 pero numero que no son de ambos, esto ademas de tener en cuenta que se solicita un numero maximo para la suma un tope maximo por asi decirlo.
+
+
 
 Ademas tenemos una sueccion fubonaccio pasada de python a Java.
 
